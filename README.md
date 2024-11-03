@@ -33,7 +33,7 @@ Le projet contient les principaux dossiers suivants :
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/ink.git
+   git clone git@github.com:MarieRobertson/ink-project-robertson-marie.git
    cd /ink
    npm i
    npm run dev
